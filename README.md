@@ -24,6 +24,8 @@ You must simply download the XML file, import it on:
 
 I also recommend setting the workbench theme to Dark Custom and the HSL to (0,0,16)
 
+You can also find the XML file [here](http://www.eclipsecolorthemes.org/?view=theme&id=62229)
+
 ## Screenshot
 
 ![Gruvbox Material Custom](./screenshot/gruvbox-theme.png)
