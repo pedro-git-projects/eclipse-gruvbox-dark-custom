@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<colorTheme id="62229" name="gruvbox-dark-custom" modified="2021-08-06 21:05:33" author="Pedro">
+    <searchResultIndication color="#282828" />
+    <filteredSearchResultIndication color="#D79921" />
+    <occurrenceIndication color="#3C3836" />
+    <writeOccurrenceIndication color="#689D6A" />
+    <findScope color="#32302F" />
+    <deletionIndication color="#FB4934" />
+    <sourceHoverBackground color="#3C3836" />
+    <singleLineComment color="#A89984" italic="true" />
+    <multiLineComment color="#A89984" bold="false" italic="true" />
+    <commentTaskTag color="#928374" italic="false" />
+    <javadoc color="#928374" italic="false" />
+    <javadocLink color="#CFBFAD" italic="false" />
+    <javadocTag color="#CFBFAD" italic="false" />
+    <javadocKeyword color="#D9E577" italic="false" />
+    <class color="#83A598" bold="false" underline="false" strikethrough="false" />
+    <interface color="#83A598" />
+    <method color="#B8BB26" />
+    <methodDeclaration color="#B8BB26" />
+    <bracket color="#FBF1C7" />
+    <number color="#D3869B" />
+    <string color="#FFC600" />
+    <operator color="#689D6A" />
+    <keyword color="#FE8019" bold="false" />
+    <annotation color="#FFFFFF" />
+    <staticMethod color="#8EC07C" />
+    <localVariable color="#FBF1C7" bold="false" />
+    <localVariableDeclaration color="#FBF1C7" />
+    <field color="#FBF1C7" bold="false" />
+    <staticField color="#FBF1C7" />
+    <staticFinalField color="#FBF1C7" />
+    <deprecatedMember color="#FB4934" underline="false" strikethrough="false" />
+    <enum color="#7FB347" bold="false" />
+    <inheritedMethod color="#B8BB26" />
+    <abstractMethod color="#B8BB26" />
+    <parameterVariable color="#8EC07C" />
+    <typeArgument color="#FBF1C7" bold="false" italic="false" />
+    <typeParameter color="#FBF1C7" />
+    <constant color="#D3869B" />
+    <background color="#282828" />
+    <currentLine color="#3C3836" />
+    <foreground color="#FBF1C7" />
+    <lineNumber color="#A89984" />
+    <selectionBackground color="#665C54" />
+    <selectionForeground color="#FBF1C7" />
+</colorTheme>
