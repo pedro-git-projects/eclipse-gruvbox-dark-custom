@@ -10,7 +10,7 @@ This particular implementation is focused on the Java perspective of said IDE.
 
 Before installing this theme, one must install the DevStyle package from the Eclipse Marketplace.
 
-## Installaion
+## Installation
 
 You must simply download the XML file, import it on:
 
