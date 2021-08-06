@@ -28,6 +28,6 @@ You can also find the XML file [here](http://www.eclipsecolorthemes.org/?view=th
 
 ## Screenshot
 
-![Gruvbox Material Custom](./screenshot/gruvbox-theme.png)
+![Gruvbox Material Custom](./screenshot/gruvbox-theme.png).
 
 
